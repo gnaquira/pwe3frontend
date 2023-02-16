@@ -1,0 +1,45 @@
+.container {
+    background-color: rgb(250, 211, 199);
+}
+li {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+#activo {
+    color: brown;
+}
+#titulo {
+    text-align: center;
+    color: coral;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-bottom: 2px solid antiquewhite;
+}
+button {
+    margin-top: 10px;
+}
+#Registrar_Plato, #Registrar_Categoria {
+    margin-top: 10px;
+}
+#registro {
+    padding: 10px;
+    background-color: rgb(253, 164, 91);
+}
+#pedido_realizado {
+    margin-left:440px;
+}
+#accion_pedido_realizado{
+    text-align-last: right;
+}
+.color {
+    color: antiquewhite;
+}
+#enviar {
+    margin-top: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    
+}
+#ancho {
+    width: 30%;
+}
